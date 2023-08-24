@@ -1,1 +1,1 @@
-const Menu: 
+const Menu: React.FC 
