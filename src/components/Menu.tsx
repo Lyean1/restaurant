@@ -6,4 +6,4 @@ const Menu: React.FC = () => {
     )
 }
 
-export
+export default
