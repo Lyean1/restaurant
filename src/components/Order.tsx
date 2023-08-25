@@ -6,4 +6,4 @@ const Order: React.FC = () => {
     )
 }
 
-export
+export default
