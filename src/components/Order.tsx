@@ -1,1 +1,3 @@
-const Order: React.FC
+const Order: React.FC = () => {
+    
+}
