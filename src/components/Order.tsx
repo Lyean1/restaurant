@@ -1,7 +1,7 @@
 const Order: React.FC = () => {
     return (
-        <div>
-            
+        <div className="order">
+
         </div>
     )
 }
