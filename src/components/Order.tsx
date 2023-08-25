@@ -1,1 +1,1 @@
-const Order
+const Order: React.FC
