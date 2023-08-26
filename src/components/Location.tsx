@@ -1,1 +1,3 @@
-const Location: React.FC 
+const Location: React.FC = () => [
+    
+]
