@@ -1,1 +1,1 @@
-const Location
+const Location: React.FC 
