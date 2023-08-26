@@ -1,7 +1,7 @@
 const Location: React.FC = () => [
     return (
-        <div>
-            
+        <div className="location">
+
         </div>
     )
 ]
