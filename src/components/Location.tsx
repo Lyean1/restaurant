@@ -6,4 +6,4 @@ const Location: React.FC = () => [
     )
 ]
 
-export default
+export default Location
