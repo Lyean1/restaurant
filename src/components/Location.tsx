@@ -5,3 +5,5 @@ const Location: React.FC = () => [
         </div>
     )
 ]
+
+export
