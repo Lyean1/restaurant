@@ -1,7 +1,7 @@
 const Delivery: React.FC = () => {
     return (
-        <div>
-            
+        <div className="delivery">
+
         </div>
     )
 }
