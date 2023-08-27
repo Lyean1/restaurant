@@ -5,3 +5,5 @@ const Delivery: React.FC = () => {
         </div>
     )
 }
+
+export
