@@ -1,1 +1,3 @@
-const Delivery: React.FC
+const Delivery: React.FC = () => {
+    
+}
