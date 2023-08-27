@@ -1,1 +1,1 @@
-const Delivery
+const Delivery: React.FC
