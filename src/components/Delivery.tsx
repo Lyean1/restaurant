@@ -6,4 +6,4 @@ const Delivery: React.FC = () => {
     )
 }
 
-export default
+export default Delivery
